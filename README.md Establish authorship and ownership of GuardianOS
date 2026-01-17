@@ -1,8 +1,77 @@
 # GuardianOS™
 
-> This repository constitutes a public authorship and priority record.
-GuardianOS™ (also referred to as Millings OS v1) is an authored governance and security architecture forming part of the Millings Layering Method™, solely authored and owned by Frederick Redditt.
+> This repository constitutes a public authorship and priority 
 
+## Overview
+
+GuardianOS™ (also referred to as Millings OS v1) is an authored governance, cybersecurity, and continuity architecture forming part of the Millings Layering Method™.
+
+It operates as a control-plane framework for AI, robotics, and autonomous systems, enforcing strict human authority, structural safety constraints, and anti-drift continuity.
+
+This repository documents architectural principles, not deployable code.
+
+---
+
+## Core Design Principle
+
+> Safety is not learned. It is shaped.
+
+GuardianOS™ defines the permitted shape of action before any data, prompts, or models are applied.  
+If an action is not structurally authorized, execution is impossible regardless of intent or output.
+
+---
+
+## Architectural Shifts
+
+### Structural Safety vs Semantic Alignment
+GuardianOS™ enforces safety at the architectural level rather than through value interpretation or probabilistic alignment.
+
+### Re-Orientation and Interrogation
+The framework mandates slow-down and assumption-checking at defined checkpoints.
+
+### Drift and Delay Resistance
+Behavioral changes are treated as structural deformations requiring verification.
+
+### Layered Precision
+Execution occurs in discrete, verifiable layers to prevent cumulative error.
+
+### Multi-Agent Governance
+Coherence is enforced structurally across agents, not emergently.
+
+---
+
+## Fail-Safe Governance Architecture (2026)
+
+### Recursive Cybersecurity Lock
+Ensures all reasoning conforms to authorized structural lineage.
+
+### Continuity Lock
+Prevents memory erasure, orphaned autonomy, and unauthorized state transitions.
+
+### Federal Anchor Chain
+Binds autonomy to continuous human authority across time.
+
+---
+
+## Scope and Limitations
+
+This repository:
+- Does NOT grant execution rights
+- Does NOT imply open licensing
+- Does NOT authorize weaponization
+- Does NOT grant AI personhood or rights
+
+Architectural documentation only.
+
+---
+
+## Authorship & Ownership
+
+Authored by: Frederick Redditt  
+Framework: Millings Layering Method™  
+Years: 1979–2026  
+
+All rights reserved. Unauthorized derivative use is prohibited.
 GuardianOS™ functions as the governance, cybersecurity, and continuity control plane for AI, robotics, and autonomous systems operating under strict human authority, structural safety constraints, and anti-drift enforcement.
 
 This repository establishes authorship, ownership, and governance boundaries.
